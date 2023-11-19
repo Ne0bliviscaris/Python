@@ -1,6 +1,0 @@
-John - Salesman
-Dwight - Salesman
-Pam - Receptionist
-Michael - Manager
-Oscar - Accountant
-Gary - Oldman
